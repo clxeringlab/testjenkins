@@ -14,3 +14,5 @@ public class DemoApplication {
 }
 
 // 测试 jenkins 自动构建！
+
+// 测试移除 源码库浏览器 造成的影响！

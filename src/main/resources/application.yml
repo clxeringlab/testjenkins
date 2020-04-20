@@ -10,4 +10,4 @@ spring:
     prefix: classpath:/newwebapp/
 
 server:
-  port: 7077
+  port: 3006
